@@ -10,6 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3D721438-7D38-4276-B35D-3CC4FAE54A97}"
 	ProjectSection(SolutionItems) = preProject
 		C:\Users\sevan\Downloads\buildspec.yml = C:\Users\sevan\Downloads\buildspec.yml
+		C:\Users\sevan\Downloads\netcoreuser_codecommit_credentials.csv = C:\Users\sevan\Downloads\netcoreuser_codecommit_credentials.csv
 		C:\Users\sevan\Downloads\Procfile = C:\Users\sevan\Downloads\Procfile
 	EndProjectSection
 EndProject
